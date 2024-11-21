@@ -1,0 +1,140 @@
+*{padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.head {
+
+    display: flex;
+    justify-content: space-between;
+    padding-left: 150px;
+    gap: 30px;
+    padding-top: 40px;
+
+}
+
+#classQ {
+    padding-right: 100px;
+}
+
+.cources {
+    font-size: 18px;
+    color: #9a9c9f;
+    font-weight:normal;
+    
+    }
+
+.btn {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 200px;
+    gap: 40px;
+    margin-top: 35px;
+    font-family: Arial;
+}
+
+#btn {
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: black;
+    color: white;
+    border: hidden;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 16px;
+    
+
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    border: hidden;
+    font-family: Arial;
+    position: relative;
+    gap: right;
+}
+
+.para-btn {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+
+
+:root{
+    font-family: Arial;
+    
+}
+.login{
+    margin-top: 10%;
+    margin-left: 38%;
+    margin-bottom: 20%;
+    background-color: gainsboro;
+    height: 500px;
+    width: 400px;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    font-weight: bold;
+}
+
+#log{
+    padding-left: 150px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    font-weight: bold;
+    
+}
+
+.mail{
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 150px;
+    border: black solid 2px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-weight: bold;
+    
+}
+
+.pass {
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 130px;
+    border: black solid 2px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: bold;
+    margin-bottom:40px;
+    font-weight: bold;
+   
+}
+
+.signup {
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: hidden;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: bold;
+    margin-bottom: 50px;
+    background-color: rgb(185, 232, 116);
+    font-weight: bold;
+
+}
+
+#para{
+    font-size: 20px;
+    padding-left: 40px;
+    font-weight: bold;
+}

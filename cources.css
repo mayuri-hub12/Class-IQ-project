@@ -1,0 +1,135 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+.head {
+
+    display: flex;
+    justify-content: space-between;
+    padding-left: 150px;
+    gap: 30px;
+    padding-top: 40px;
+
+}
+
+#classQ {
+    padding-right: 100px;
+}
+
+.cources {
+    font-size: 18px;
+    color: #9a9c9f
+}
+
+.btn {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 200px;
+    gap: 40px;
+    padding-top: 40px;
+    font-family: Arial;
+}
+
+#btn {
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: black;
+    color: white;
+    border: hidden;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 16px;
+    padding-top: 10px;
+
+}
+
+#btn-link {
+
+    background-color: black;
+    color: white;
+    border: hidden;
+    border-radius: 10px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    border: hidden;
+    font-family: Arial;
+    position: relative;
+    gap: right;
+}
+
+.para-btn {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+
+}
+
+.first{
+    background-color:#ECEDEF;
+    height: 300px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    font-family: Arial;
+    padding-top: 50px;
+    font-weight: bold;
+    padding-left: 50px;
+}
+#boy{
+    margin-right: 10px;
+    margin-top: 50px;
+    position: relative;
+    background: rgb(194, 245, 120);
+        background: radial-gradient(circle, rgba(194, 245, 120, 0.9781162464985994) 10%, rgba(236, 237, 239, 1) 70%);
+}
+
+#para-II{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.all-cources{
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;
+    margin-left: 150px;
+    color: #3E3E3E;
+    margin-top: 50px;
+}
+
+.second{
+    
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 150px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 50px;
+}
+
+.second-I{
+background-color: #ECEDEF;
+height: 300px;
+width: 300px;
+border: hidden;
+border-radius: 10px;
+font-size: 20px;
+font-family: Arial;
+font-weight: bold;
+text-align: center;
+padding-top: 20px;
+}
+
+.last{
+    margin-top: 50px;
+}
